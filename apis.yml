@@ -1,0 +1,98 @@
+aid: lucid-motors
+name: Lucid Motors
+description: >-
+  Lucid Motors is the consumer-vehicle brand of Lucid Group, Inc.
+  (NASDAQ: LCID), a Newark, California–headquartered American luxury
+  electric vehicle manufacturer. The company designs and manufactures
+  high-performance battery-electric sedans and SUVs, with its flagship
+  Lucid Air (Pure, Touring, Grand Touring, and Sapphire trims) and the
+  Lucid Gravity SUV (Touring and Grand Touring), assembled at its AMP-1
+  factory in Casa Grande, Arizona. Lucid develops its own electric
+  powertrain, battery, and software stack — including the Lucid UX
+  in-vehicle experience, the Lucid mobile app, Lucid Assistant, and
+  over-the-air updates — and operates a vertically integrated
+  direct-to-consumer sales, financing, leasing, and service model
+  across North America, Europe, and the Middle East, supported by a
+  growing network of Lucid Studios, Service Centers, and DC fast
+  charging partnerships. Lucid is majority-owned by Saudi Arabia's
+  Public Investment Fund (PIF). Beyond consumer vehicles, Lucid
+  licenses its powertrain and battery technology to other OEMs
+  (notably Aston Martin) and supplies battery systems through its
+  Lucid energy storage initiatives. Lucid Motors does not publish a
+  public developer API portal, SDK, or OpenAPI specification; the
+  Lucid mobile app and vehicle telematics are powered by private
+  backend services that are not documented for third-party use.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Automotive
+  - Electric Vehicles
+  - Luxury Vehicles
+  - Connected Vehicle
+  - Battery Technology
+  - Powertrain
+  - Manufacturing
+  - Over The Air Updates
+  - Mobile App
+  - Lucid Air
+  - Lucid Gravity
+  - NASDAQ
+url: https://raw.githubusercontent.com/api-evangelist/lucid-motors/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.lucidmotors.com
+  - type: LucidAir
+    url: https://www.lucidmotors.com/air
+  - type: LucidGravity
+    url: https://www.lucidmotors.com/gravity
+  - type: Configure
+    url: https://www.lucidmotors.com/configure
+  - type: PreOwned
+    url: https://www.lucidmotors.com/pre-owned
+  - type: KnowledgeCenter
+    url: https://www.lucidmotors.com/knowledge
+  - type: MobileApp
+    url: https://www.lucidmotors.com/knowledge/ownership/lucid-app
+  - type: Charging
+    url: https://www.lucidmotors.com/charging
+  - type: Studios
+    url: https://www.lucidmotors.com/stores
+  - type: Service
+    url: https://www.lucidmotors.com/service
+  - type: Financing
+    url: https://www.lucidmotors.com/financial-services
+  - type: Company
+    url: https://www.lucidmotors.com/company
+  - type: Careers
+    url: https://www.lucidmotors.com/careers
+  - type: Newsroom
+    url: https://media.lucidmotors.com
+  - type: InvestorRelations
+    url: https://ir.lucidmotors.com
+  - type: Contact
+    url: https://www.lucidmotors.com/contact
+  - type: TermsOfService
+    url: https://www.lucidmotors.com/legal/terms-of-use
+  - type: PrivacyPolicy
+    url: https://www.lucidmotors.com/legal/privacy-policy
+  - type: GitHubOrganization
+    url: https://github.com/lucid-motors
+  - type: Twitter
+    url: https://twitter.com/lucidmotors
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/lucidmotors
+  - type: YouTube
+    url: https://www.youtube.com/@lucidmotors
+  - type: Instagram
+    url: https://www.instagram.com/lucidmotors
+  - type: Facebook
+    url: https://www.facebook.com/lucidmotors
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
