@@ -63,7 +63,7 @@ common:
     url: https://www.lucidmotors.com/charging
   - type: Studios
     url: https://www.lucidmotors.com/stores
-  - type: Service
+  - type: Services
     url: https://www.lucidmotors.com/service
   - type: Financing
     url: https://www.lucidmotors.com/financial-services
