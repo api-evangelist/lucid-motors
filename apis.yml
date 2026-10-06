@@ -76,10 +76,12 @@ tags_raw:
   - NASDAQ
 url: https://raw.githubusercontent.com/api-evangelist/lucid-motors/refs/heads/main/apis.yml
 created: '2026-05-25'
-modified: '2026-05-25'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://lucidmotors.com:443/stories
+    type: Blog
   - type: VulnerabilityDisclosure
     url: security/lucid-motors-vulnerability-disclosure.yml
   - type: DomainSecurity
