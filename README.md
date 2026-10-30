@@ -1,4 +1,4 @@
-# lucid-motors
+# Lucid Motors
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Lucid Motors — US luxury electric vehicle maker (Lucid Air, Lucid Gravity); brand of Lucid Group, Inc. (NASDAQ: LCID).
+Lucid Motors is the consumer-vehicle brand of Lucid Group, Inc. (NASDAQ: LCID), a Newark, California–headquartered American luxury electric vehicle manufacturer. The company designs and manufactures high-performance battery-electric sedans and SUVs, with its flagship Lucid Air (Pure, Touring, Grand Touring, and Sapphire trims) and the Lucid Gravity SUV (Touring and Grand Touring), assembled at its AMP-1 factory in Casa Grande, Arizona. Lucid develops its own electric powertrain, battery, and software stack — including the Lucid UX in-vehicle experience, the Lucid mobile app, Lucid Assistant, and over-the-air updates — and operates a vertically integrated direct-to-consumer sales, financing, leasing, and service model across North America, Europe, and the Middle East, supported by a growing network of Lucid Studios, Service Centers, and DC fast charging partnerships. Lucid is majority-owned by Saudi Arabia's Public Investment Fund (PIF). Beyond consumer vehicles, Lucid licenses its powertrain and battery technology to other OEMs (notably Aston Martin) and supplies battery systems through its Lucid energy storage initiatives. Lucid Motors does not publish a public developer API portal, SDK, or OpenAPI specification; the Lucid mobile app and vehicle telematics are powered by private backend services that are not documented for third-party use.
+
+**Areas:** Automotive · Electric Vehicles · Luxury Vehicles · Connected Vehicles · Battery Technology · Powertrain · Manufacturing · Over-the-Air Updates · Mobile App · Lucid Air · Lucid Gravity · NASDAQ
+
+## Lucid Motors on APIs.io
+
+Everything profiled for Lucid Motors is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lucid-motors/](https://apis.io/providers/lucid-motors/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Lucid Motors Domain Security](https://apis.io/security/lucid-motors/lucid-motors-domain-security/)
+- [Lucid Motors Vulnerability Disclosure](https://apis.io/security/lucid-motors/lucid-motors-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.lucidmotors.com)
+- [Blog](https://lucidmotors.com:443/stories)
+- [Terms of service](https://www.lucidmotors.com/legal/terms-of-use)
+- [Privacy policy](https://www.lucidmotors.com/legal/privacy-policy)
+- [GitHub](https://github.com/lucid-motors)
+
+## API Evangelist rating
+
+**Kin Score 7.9** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 15.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lucid-motors/](https://apis.io/providers/lucid-motors/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Lucid Motors: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lucid-motors/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
